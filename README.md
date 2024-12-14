@@ -47,12 +47,6 @@ Este projeto foi desenvolvido como parte de um desafio da **[Digital Innovation 
 
 ---
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## 🌐 Link para Acesso
 
-Acesse a página completa [aqui](https://seuusuario.github.io/multiverso-spiderman/) e explore o Multiverso do Homem-Aranha! 🚀
+Acesse a página completa [aqui](https://gabrieodev.github.io/Multiverso-Spider-Man/) e explore o Multiverso do Homem-Aranha! 🚀
